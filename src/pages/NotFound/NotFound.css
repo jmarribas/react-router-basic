@@ -1,0 +1,11 @@
+.notFound {
+  height: 90svh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 137, 247);
+  font-weight: bold;
+  font-size: 20px;
+  gap: 15px;
+}
